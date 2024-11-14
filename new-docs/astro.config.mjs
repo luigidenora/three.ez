@@ -5,7 +5,7 @@ import starlightTypeDoc, { typeDocSidebarGroup } from "starlight-typedoc";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://agargaro.github.io",
+  site: "https://luigidenora.github.io",
   base: "/three.ez",
   integrations: [
     starlight({
