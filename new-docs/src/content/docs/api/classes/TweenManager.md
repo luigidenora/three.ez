@@ -31,7 +31,7 @@ Complete all running tweens.
 
 #### Defined in
 
-[src/tweening/TweenManager.ts:123](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/TweenManager.ts#L123)
+[tweening/TweenManager.ts:123](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/TweenManager.ts#L123)
 
 ***
 
@@ -53,7 +53,7 @@ The tag to filter running tweens.
 
 #### Defined in
 
-[src/tweening/TweenManager.ts:133](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/TweenManager.ts#L133)
+[tweening/TweenManager.ts:133](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/TweenManager.ts#L133)
 
 ***
 
@@ -69,7 +69,7 @@ Stop all running tweens.
 
 #### Defined in
 
-[src/tweening/TweenManager.ts:102](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/TweenManager.ts#L102)
+[tweening/TweenManager.ts:102](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/TweenManager.ts#L102)
 
 ***
 
@@ -91,7 +91,7 @@ The tag to filter running tweens.
 
 #### Defined in
 
-[src/tweening/TweenManager.ts:112](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/TweenManager.ts#L112)
+[tweening/TweenManager.ts:112](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/TweenManager.ts#L112)
 
 ***
 
@@ -113,4 +113,4 @@ Tween identifier.
 
 #### Defined in
 
-[src/tweening/TweenManager.ts:90](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/TweenManager.ts#L90)
+[tweening/TweenManager.ts:90](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/TweenManager.ts#L90)

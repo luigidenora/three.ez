@@ -43,7 +43,7 @@ The secondary target for the event.
 
 #### Defined in
 
-[src/events/Events.ts:361](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L361)
+[events/Events.ts:361](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L361)
 
 ## Properties
 
@@ -59,7 +59,7 @@ A boolean value indicating whether the event is cancelable.
 
 #### Defined in
 
-[src/events/Events.ts:116](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L116)
+[events/Events.ts:116](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L116)
 
 ***
 
@@ -75,7 +75,7 @@ A reference to the currently registered target for the event. This is the object
 
 #### Defined in
 
-[src/events/Events.ts:118](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L118)
+[events/Events.ts:118](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L118)
 
 ***
 
@@ -87,7 +87,7 @@ The secondary target for the event.
 
 #### Defined in
 
-[src/events/Events.ts:356](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L356)
+[events/Events.ts:356](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L356)
 
 ***
 
@@ -103,7 +103,7 @@ The time at which the event was created (in milliseconds). By specification, thi
 
 #### Defined in
 
-[src/events/Events.ts:124](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L124)
+[events/Events.ts:124](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L124)
 
 ## Accessors
 
@@ -125,7 +125,7 @@ A boolean value indicating whether or not the event bubbles up through the DOM.
 
 #### Defined in
 
-[src/events/Events.ts:114](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L114)
+[events/Events.ts:114](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L114)
 
 ***
 
@@ -147,7 +147,7 @@ Indicates whether or not the call to event.preventDefault() canceled the event.
 
 #### Defined in
 
-[src/events/Events.ts:120](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L120)
+[events/Events.ts:120](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L120)
 
 ***
 
@@ -169,7 +169,7 @@ A reference to the object to which the event was originally dispatched.
 
 #### Defined in
 
-[src/events/Events.ts:122](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L122)
+[events/Events.ts:122](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L122)
 
 ***
 
@@ -177,13 +177,13 @@ A reference to the object to which the event was originally dispatched.
 
 #### Get Signature
 
-> **get** **type**(): keyof MiscEvents \| keyof InteractionEvents\<Object3D\<Object3DEventMap\>, Object3D\<Object3DEventMap\>, Object3D\<Object3DEventMap\> \| InstancedMeshEntity\> \| keyof UpdateEvents
+> **get** **type**(): keyof InteractionEvents\<Object3D, Object3D, any\> \| keyof MiscEvents \| keyof UpdateEvents
 
 The case-insensitive name identifying the type of the event.
 
 ##### Returns
 
-keyof MiscEvents \| keyof InteractionEvents\<Object3D\<Object3DEventMap\>, Object3D\<Object3DEventMap\>, Object3D\<Object3DEventMap\> \| InstancedMeshEntity\> \| keyof UpdateEvents
+keyof InteractionEvents\<Object3D, Object3D, any\> \| keyof MiscEvents \| keyof UpdateEvents
 
 #### Inherited from
 
@@ -191,7 +191,7 @@ keyof MiscEvents \| keyof InteractionEvents\<Object3D\<Object3DEventMap\>, Objec
 
 #### Defined in
 
-[src/events/Events.ts:126](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L126)
+[events/Events.ts:126](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L126)
 
 ## Methods
 
@@ -211,7 +211,7 @@ Cancels the event.
 
 #### Defined in
 
-[src/events/Events.ts:142](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L142)
+[events/Events.ts:142](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L142)
 
 ***
 
@@ -231,7 +231,7 @@ For this particular event, prevent all other listeners from being called. This i
 
 #### Defined in
 
-[src/events/Events.ts:147](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L147)
+[events/Events.ts:147](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L147)
 
 ***
 
@@ -251,4 +251,4 @@ Stops the propagation of events further along in the Object3D hierarchy.
 
 #### Defined in
 
-[src/events/Events.ts:152](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L152)
+[events/Events.ts:152](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L152)

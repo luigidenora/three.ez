@@ -29,7 +29,7 @@ title: "GraphPanel"
 
 #### Defined in
 
-[src/utils/Stats.ts:156](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L156)
+[utils/Stats.ts:156](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L156)
 
 ## Properties
 
@@ -39,7 +39,7 @@ title: "GraphPanel"
 
 #### Defined in
 
-[src/utils/Stats.ts:141](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L141)
+[utils/Stats.ts:141](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L141)
 
 ## Methods
 
@@ -63,4 +63,4 @@ title: "GraphPanel"
 
 #### Defined in
 
-[src/utils/Stats.ts:178](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L178)
+[utils/Stats.ts:178](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L178)

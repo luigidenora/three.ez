@@ -35,7 +35,7 @@ Don't instantiate this manually.
 
 #### Defined in
 
-[src/tweening/RunningTween.ts:68](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/RunningTween.ts#L68)
+[tweening/RunningTween.ts:68](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/RunningTween.ts#L68)
 
 ## Properties
 
@@ -48,7 +48,7 @@ If set to `true`, the tween will not progress until it is resumed.
 
 #### Defined in
 
-[src/tweening/RunningTween.ts:52](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/RunningTween.ts#L52)
+[tweening/RunningTween.ts:52](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/RunningTween.ts#L52)
 
 ***
 
@@ -62,7 +62,7 @@ A value of `1` represents normal speed, while `0.5` would be half-speed, and `2`
 
 #### Defined in
 
-[src/tweening/RunningTween.ts:58](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/RunningTween.ts#L58)
+[tweening/RunningTween.ts:58](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/RunningTween.ts#L58)
 
 ## Accessors
 
@@ -80,7 +80,7 @@ Indicates whether the running tween has finished executing.
 
 #### Defined in
 
-[src/tweening/RunningTween.ts:63](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/RunningTween.ts#L63)
+[tweening/RunningTween.ts:63](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/RunningTween.ts#L63)
 
 ## Methods
 
@@ -96,7 +96,7 @@ Complete the running tween, causing it to finish immediately.
 
 #### Defined in
 
-[src/tweening/RunningTween.ts:107](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/RunningTween.ts#L107)
+[tweening/RunningTween.ts:107](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/RunningTween.ts#L107)
 
 ***
 
@@ -112,7 +112,7 @@ Pause the execution of the running tween.
 
 #### Defined in
 
-[src/tweening/RunningTween.ts:86](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/RunningTween.ts#L86)
+[tweening/RunningTween.ts:86](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/RunningTween.ts#L86)
 
 ***
 
@@ -128,7 +128,7 @@ Resume the execution of the running tween if it was paused.
 
 #### Defined in
 
-[src/tweening/RunningTween.ts:93](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/RunningTween.ts#L93)
+[tweening/RunningTween.ts:93](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/RunningTween.ts#L93)
 
 ***
 
@@ -144,7 +144,7 @@ Revert the running tween to its initial state (Not implemented yet).
 
 #### Defined in
 
-[src/tweening/RunningTween.ts:114](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/RunningTween.ts#L114)
+[tweening/RunningTween.ts:114](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/RunningTween.ts#L114)
 
 ***
 
@@ -168,7 +168,7 @@ The updated RunningTween instance.
 
 #### Defined in
 
-[src/tweening/RunningTween.ts:78](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/RunningTween.ts#L78)
+[tweening/RunningTween.ts:78](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/RunningTween.ts#L78)
 
 ***
 
@@ -184,4 +184,4 @@ Stop the running tween, causing it to finish immediately.
 
 #### Defined in
 
-[src/tweening/RunningTween.ts:100](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/tweening/RunningTween.ts#L100)
+[tweening/RunningTween.ts:100](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/tweening/RunningTween.ts#L100)

@@ -17,7 +17,7 @@ Bottom coordinate of the viewport.
 
 #### Defined in
 
-[src/rendering/RenderView.ts:11](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L11)
+[rendering/RenderView.ts:11](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L11)
 
 ***
 
@@ -29,7 +29,7 @@ Height of the viewport.
 
 #### Defined in
 
-[src/rendering/RenderView.ts:15](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L15)
+[rendering/RenderView.ts:15](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L15)
 
 ***
 
@@ -41,7 +41,7 @@ Left coordinate of the viewport.
 
 #### Defined in
 
-[src/rendering/RenderView.ts:9](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L9)
+[rendering/RenderView.ts:9](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L9)
 
 ***
 
@@ -53,4 +53,4 @@ Width of the viewport.
 
 #### Defined in
 
-[src/rendering/RenderView.ts:13](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L13)
+[rendering/RenderView.ts:13](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L13)

@@ -27,7 +27,7 @@ Computes bounding spheres for child objects within the specified Object3D hierar
 
 #### Parameters
 
-• **target**: `Object3D`\<`Object3DEventMap`\>
+• **target**: `Object3D`
 
 The root Object3D from which to start computing bounding spheres for children.
 
@@ -37,7 +37,7 @@ The root Object3D from which to start computing bounding spheres for children.
 
 #### Defined in
 
-[src/utils/Utils.ts:45](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Utils.ts#L45)
+[utils/Utils.ts:45](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Utils.ts#L45)
 
 ***
 
@@ -50,7 +50,7 @@ Each object is mapped using its unique name as the key in the resulting object.
 
 #### Parameters
 
-• **target**: `Object3D`\<`Object3DEventMap`\>
+• **target**: `Object3D`
 
 The root object to begin generating the object map from.
 
@@ -62,7 +62,7 @@ An object containing objects mapped by their names.
 
 #### Defined in
 
-[src/utils/Utils.ts:60](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Utils.ts#L60)
+[utils/Utils.ts:60](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Utils.ts#L60)
 
 ***
 
@@ -94,7 +94,7 @@ The intersection point as Vector3.
 
 #### Defined in
 
-[src/utils/Utils.ts:23](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Utils.ts#L23)
+[utils/Utils.ts:23](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Utils.ts#L23)
 
 ***
 
@@ -106,12 +106,12 @@ Set for all children of the target, the draggable flag to true and a dragTarget.
 
 #### Parameters
 
-• **target**: `Object3D`\<`Object3DEventMap`\>
+• **target**: `Object3D`
 
 The Object3D whose children you want to enable as draggable elements.
   *
 
-• **dragTarget**: `Object3D`\<`Object3DEventMap`\>
+• **dragTarget**: `Object3D`
 
 The Object3D that will act as the drag target for the children.
 
@@ -121,4 +121,4 @@ The Object3D that will act as the drag target for the children.
 
 #### Defined in
 
-[src/utils/Utils.ts:34](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Utils.ts#L34)
+[utils/Utils.ts:34](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Utils.ts#L34)

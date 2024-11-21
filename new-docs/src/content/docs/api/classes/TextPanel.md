@@ -29,7 +29,7 @@ title: "TextPanel"
 
 #### Defined in
 
-[src/utils/Stats.ts:232](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L232)
+[utils/Stats.ts:232](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L232)
 
 ## Properties
 
@@ -39,7 +39,7 @@ title: "TextPanel"
 
 #### Defined in
 
-[src/utils/Stats.ts:211](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L211)
+[utils/Stats.ts:211](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L211)
 
 ## Methods
 
@@ -59,4 +59,4 @@ title: "TextPanel"
 
 #### Defined in
 
-[src/utils/Stats.ts:254](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L254)
+[utils/Stats.ts:254](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L254)

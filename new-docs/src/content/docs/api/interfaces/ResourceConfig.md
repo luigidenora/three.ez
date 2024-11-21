@@ -25,7 +25,7 @@ A callback function to be called when the resource is successfully loaded.
 
 #### Defined in
 
-[src/utils/Asset.ts:46](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Asset.ts#L46)
+[utils/Asset.ts:46](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Asset.ts#L46)
 
 ***
 
@@ -37,4 +37,4 @@ The path to the resource that needs to be loaded.
 
 #### Defined in
 
-[src/utils/Asset.ts:42](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Asset.ts#L42)
+[utils/Asset.ts:42](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Asset.ts#L42)

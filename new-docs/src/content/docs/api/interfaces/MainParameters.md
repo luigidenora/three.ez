@@ -27,7 +27,7 @@ Callback function executed for each frame.
 
 #### Defined in
 
-[src/core/Main.ts:33](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/core/Main.ts#L33)
+[core/Main.ts:33](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/core/Main.ts#L33)
 
 ***
 
@@ -39,7 +39,7 @@ Default background alpha (transparency) value (default: 1).
 
 #### Defined in
 
-[src/core/Main.ts:31](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/core/Main.ts#L31)
+[core/Main.ts:31](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/core/Main.ts#L31)
 
 ***
 
@@ -51,7 +51,7 @@ Default background color (default: 'black').
 
 #### Defined in
 
-[src/core/Main.ts:29](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/core/Main.ts#L29)
+[core/Main.ts:29](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/core/Main.ts#L29)
 
 ***
 
@@ -63,7 +63,7 @@ Disable the context menu on right-click (default: true).
 
 #### Defined in
 
-[src/core/Main.ts:27](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/core/Main.ts#L27)
+[core/Main.ts:27](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/core/Main.ts#L27)
 
 ***
 
@@ -75,7 +75,7 @@ Enable cursor handling in the application (default: true).
 
 #### Defined in
 
-[src/core/Main.ts:37](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/core/Main.ts#L37)
+[core/Main.ts:37](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/core/Main.ts#L37)
 
 ***
 
@@ -87,7 +87,7 @@ Enable full-screen mode and automatic canvas resizing (default: true).
 
 #### Defined in
 
-[src/core/Main.ts:23](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/core/Main.ts#L23)
+[core/Main.ts:23](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/core/Main.ts#L23)
 
 ***
 
@@ -99,7 +99,7 @@ Enable multitouch interactions (default: false).
 
 #### Defined in
 
-[src/core/Main.ts:39](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/core/Main.ts#L39)
+[core/Main.ts:39](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/core/Main.ts#L39)
 
 ***
 
@@ -109,7 +109,7 @@ Enable multitouch interactions (default: false).
 
 #### Defined in
 
-[src/core/Main.ts:41](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/core/Main.ts#L41)
+[core/Main.ts:41](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/core/Main.ts#L41)
 
 ***
 
@@ -121,7 +121,7 @@ Configuration parameters for the WebGLRenderer. Ignored if renderer is specified
 
 #### Defined in
 
-[src/core/Main.ts:35](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/core/Main.ts#L35)
+[core/Main.ts:35](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/core/Main.ts#L35)
 
 ***
 
@@ -133,4 +133,4 @@ Display performance statistics (default: true).
 
 #### Defined in
 
-[src/core/Main.ts:25](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/core/Main.ts#L25)
+[core/Main.ts:25](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/core/Main.ts#L25)

@@ -17,7 +17,7 @@ Cursor style when interacting with the object.
 
 #### Defined in
 
-[src/patch/Object3D.ts:59](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L59)
+[patch/Object3D.ts:59](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L59)
 
 ***
 
@@ -29,7 +29,7 @@ Cursor style when dragging the object.
 
 #### Defined in
 
-[src/patch/Object3D.ts:61](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L61)
+[patch/Object3D.ts:61](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L61)
 
 ***
 
@@ -41,7 +41,7 @@ Cursor style when dropping an object onto this one.
 
 #### Defined in
 
-[src/patch/Object3D.ts:63](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L63)
+[patch/Object3D.ts:63](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L63)
 
 ***
 
@@ -53,19 +53,19 @@ Indicates whether the object is draggable. Default is DEFAULT_DRAGGABLE (`false`
 
 #### Defined in
 
-[src/patch/Object3D.ts:53](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L53)
+[patch/Object3D.ts:53](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L53)
 
 ***
 
 ### dragTarget
 
-> **dragTarget**: `Object3D`\<`Object3DEventMap`\>
+> **dragTarget**: `Object3D`
 
 Indicates which object will be dragged instead of this one.
 
 #### Defined in
 
-[src/patch/Object3D.ts:49](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L49)
+[patch/Object3D.ts:49](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L49)
 
 ***
 
@@ -78,7 +78,7 @@ If set to true, it allows triggering all InteractionEvents; otherwise, events ar
 
 #### Defined in
 
-[src/patch/Object3D.ts:40](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L40)
+[patch/Object3D.ts:40](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L40)
 
 ***
 
@@ -90,7 +90,7 @@ Determines when the object is dragged, whether it will have to search for any dr
 
 #### Defined in
 
-[src/patch/Object3D.ts:55](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L55)
+[patch/Object3D.ts:55](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L55)
 
 ***
 
@@ -102,7 +102,7 @@ Indicates whether the object can receive focus. Default is DEFAULT_FOCUSABLE (`t
 
 #### Defined in
 
-[src/patch/Object3D.ts:51](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L51)
+[patch/Object3D.ts:51](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L51)
 
 ***
 
@@ -114,7 +114,7 @@ Array of hitboxes for collision detection.
 
 #### Defined in
 
-[src/patch/Object3D.ts:47](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L47)
+[patch/Object3D.ts:47](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L47)
 
 ***
 
@@ -132,7 +132,7 @@ DEFAULT_INTERCEPT_BY_RAYCASTER (true).
 
 #### Defined in
 
-[src/patch/Object3D.ts:45](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L45)
+[patch/Object3D.ts:45](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L45)
 
 ***
 
@@ -144,7 +144,7 @@ Indicates whether the scene needs rendering.
 
 #### Defined in
 
-[src/patch/Object3D.ts:65](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L65)
+[patch/Object3D.ts:65](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L65)
 
 ***
 
@@ -156,7 +156,7 @@ Reference to the scene the object belongs to.
 
 #### Defined in
 
-[src/patch/Object3D.ts:57](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L57)
+[patch/Object3D.ts:57](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L57)
 
 ***
 
@@ -168,7 +168,7 @@ Indicates the tags to be searched using the querySelector and `querySelectorAll`
 
 #### Defined in
 
-[src/patch/Object3D.ts:67](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L67)
+[patch/Object3D.ts:67](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L67)
 
 ## Accessors
 
@@ -186,7 +186,7 @@ Indicates if the object is currently being clicked.
 
 #### Defined in
 
-[src/patch/Object3D.ts:73](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L73)
+[patch/Object3D.ts:73](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L73)
 
 ***
 
@@ -204,7 +204,7 @@ Retrieves the combined enabled state considering parent objects.
 
 #### Defined in
 
-[src/patch/Object3D.ts:77](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L77)
+[patch/Object3D.ts:77](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L77)
 
 ***
 
@@ -212,17 +212,17 @@ Retrieves the combined enabled state considering parent objects.
 
 #### Get Signature
 
-> **get** **firstFocusable**(): `Object3D`\<`Object3DEventMap`\>
+> **get** **firstFocusable**(): `Object3D`
 
 Retrieves the first possible focusable object.
 
 ##### Returns
 
-`Object3D`\<`Object3DEventMap`\>
+`Object3D`
 
 #### Defined in
 
-[src/patch/Object3D.ts:81](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L81)
+[patch/Object3D.ts:81](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L81)
 
 ***
 
@@ -240,7 +240,7 @@ Indicates if the object is currently focused.
 
 #### Defined in
 
-[src/patch/Object3D.ts:71](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L71)
+[patch/Object3D.ts:71](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L71)
 
 ***
 
@@ -258,7 +258,7 @@ Indicates if the primary pointer is over this object.
 
 #### Defined in
 
-[src/patch/Object3D.ts:69](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L69)
+[patch/Object3D.ts:69](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L69)
 
 ***
 
@@ -276,7 +276,7 @@ Indicates if the object is currently being dragged.
 
 #### Defined in
 
-[src/patch/Object3D.ts:75](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L75)
+[patch/Object3D.ts:75](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L75)
 
 ***
 
@@ -294,7 +294,7 @@ Retrieves the combined visibility state considering parent objects.
 
 #### Defined in
 
-[src/patch/Object3D.ts:79](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L79)
+[patch/Object3D.ts:79](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L79)
 
 ## Methods
 
@@ -310,7 +310,7 @@ Applies blur (removes focus) from the object.
 
 #### Defined in
 
-[src/patch/Object3D.ts:89](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L89)
+[patch/Object3D.ts:89](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L89)
 
 ***
 
@@ -326,7 +326,7 @@ Applies focus to the object.
 
 #### Defined in
 
-[src/patch/Object3D.ts:85](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L85)
+[patch/Object3D.ts:85](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L85)
 
 ***
 
@@ -362,7 +362,7 @@ The instance of the object with the binding applied.
 
 #### Defined in
 
-[src/patch/Object3D.ts:141](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L141)
+[patch/Object3D.ts:141](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L141)
 
 ***
 
@@ -385,7 +385,7 @@ If true, calculate bindings for children as well (optional, default: `false`).
 
 #### Defined in
 
-[src/patch/Object3D.ts:133](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L133)
+[patch/Object3D.ts:133](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L133)
 
 ***
 
@@ -397,7 +397,7 @@ Checks if the object has a specific event listener.
 
 #### Type Parameters
 
-• **K** *extends* keyof MiscEvents \| keyof InteractionEvents\<Object3D\<Object3DEventMap\>, Object3D\<Object3DEventMap\>, Object3D\<Object3DEventMap\> \| InstancedMeshEntity\> \| keyof UpdateEvents
+• **K** *extends* keyof InteractionEvents\<Object3D, Object3D, any\> \| keyof MiscEvents \| keyof UpdateEvents
 
 #### Parameters
 
@@ -417,7 +417,7 @@ The callback function to check.
 
 #### Defined in
 
-[src/patch/Object3D.ts:103](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L103)
+[patch/Object3D.ts:103](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L103)
 
 ***
 
@@ -429,7 +429,7 @@ Removes an event listener from the object.
 
 #### Type Parameters
 
-• **K** *extends* keyof MiscEvents \| keyof InteractionEvents\<Object3D\<Object3DEventMap\>, Object3D\<Object3DEventMap\>, Object3D\<Object3DEventMap\> \| InstancedMeshEntity\> \| keyof UpdateEvents
+• **K** *extends* keyof InteractionEvents\<Object3D, Object3D, any\> \| keyof MiscEvents \| keyof UpdateEvents
 
 #### Parameters
 
@@ -447,7 +447,7 @@ The callback function to remove.
 
 #### Defined in
 
-[src/patch/Object3D.ts:109](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L109)
+[patch/Object3D.ts:109](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L109)
 
 ***
 
@@ -459,7 +459,7 @@ Attaches an event listener to the object.
 
 #### Type Parameters
 
-• **K** *extends* keyof MiscEvents \| keyof InteractionEvents\<Object3D\<Object3DEventMap\>, Object3D\<Object3DEventMap\>, Object3D\<Object3DEventMap\> \| InstancedMeshEntity\> \| keyof UpdateEvents
+• **K** *extends* keyof InteractionEvents\<Object3D, Object3D, any\> \| keyof MiscEvents \| keyof UpdateEvents
 
 #### Parameters
 
@@ -487,13 +487,13 @@ A function to remove the event listener.
 
 #### Defined in
 
-[src/patch/Object3D.ts:96](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L96)
+[patch/Object3D.ts:96](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L96)
 
 ***
 
 ### querySelector()
 
-> **querySelector**(`query`): `Object3D`\<`Object3DEventMap`\>
+> **querySelector**(`query`): `Object3D`
 
 Finds and returns the first Object3D element that matches the specified query string.
 This method follows a similar syntax to CSS selectors.
@@ -506,19 +506,19 @@ The query string to match against the Object3D elements.
 
 #### Returns
 
-`Object3D`\<`Object3DEventMap`\>
+`Object3D`
 
 The first Object3D element that matches the query, or undefined if no match is found.
 
 #### Defined in
 
-[src/patch/Object3D.ts:161](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L161)
+[patch/Object3D.ts:161](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L161)
 
 ***
 
 ### querySelectorAll()
 
-> **querySelectorAll**(`query`): `Object3D`\<`Object3DEventMap`\>[]
+> **querySelectorAll**(`query`): `Object3D`[]
 
 Finds and returns a list of Object3D elements that match the specified query string.
 This method follows a similar syntax to CSS selectors.
@@ -531,13 +531,13 @@ The query string to match against the Object3D elements.
 
 #### Returns
 
-`Object3D`\<`Object3DEventMap`\>[]
+`Object3D`[]
 
 An array of Object3D elements that match the query.
 
 #### Defined in
 
-[src/patch/Object3D.ts:168](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L168)
+[patch/Object3D.ts:168](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L168)
 
 ***
 
@@ -555,7 +555,7 @@ Instead, they must be manually computed using the 'detectChanges' function.
 
 #### Defined in
 
-[src/patch/Object3D.ts:127](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L127)
+[patch/Object3D.ts:127](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L127)
 
 ***
 
@@ -567,7 +567,7 @@ Triggers a specific event on the object.
 
 #### Type Parameters
 
-• **K** *extends* keyof MiscEvents \| keyof InteractionEvents\<Object3D\<Object3DEventMap\>, Object3D\<Object3DEventMap\>, Object3D\<Object3DEventMap\> \| InstancedMeshEntity\> \| keyof UpdateEvents
+• **K** *extends* keyof InteractionEvents\<Object3D, Object3D, any\> \| keyof MiscEvents \| keyof UpdateEvents
 
 #### Parameters
 
@@ -585,7 +585,7 @@ Optional event data to pass to the listeners.
 
 #### Defined in
 
-[src/patch/Object3D.ts:115](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L115)
+[patch/Object3D.ts:115](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L115)
 
 ***
 
@@ -597,7 +597,7 @@ Triggers a specific event on the object and all its ancestors.
 
 #### Type Parameters
 
-• **K** *extends* keyof [`InteractionEvents`](/three.ez/api/interfaces/interactionevents/)\<`Object3D`\<`Object3DEventMap`\>, `Object3D`\<`Object3DEventMap`\>, `Object3D`\<`Object3DEventMap`\> \| [`InstancedMeshEntity`](/three.ez/api/classes/instancedmeshentity/)\>
+• **K** *extends* keyof [`InteractionEvents`](/three.ez/api/interfaces/interactionevents/)\<`Object3D`, `Object3D`, `any`\>
 
 #### Parameters
 
@@ -605,7 +605,7 @@ Triggers a specific event on the object and all its ancestors.
 
 The type of event to trigger.
 
-• **event?**: [`InteractionEvents`](/three.ez/api/interfaces/interactionevents/)\<`Object3D`\<`Object3DEventMap`\>, `Object3D`\<`Object3DEventMap`\>, `Object3D`\<`Object3DEventMap`\> \| [`InstancedMeshEntity`](/three.ez/api/classes/instancedmeshentity/)\>\[`K`\]
+• **event?**: [`InteractionEvents`](/three.ez/api/interfaces/interactionevents/)\<`Object3D`, `Object3D`, `any`\>\[`K`\]
 
 Optional event data to pass to the listeners.
 
@@ -615,7 +615,7 @@ Optional event data to pass to the listeners.
 
 #### Defined in
 
-[src/patch/Object3D.ts:121](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L121)
+[patch/Object3D.ts:121](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L121)
 
 ***
 
@@ -627,7 +627,7 @@ Initiates a Tween animation for the object.
 
 #### Type Parameters
 
-• **T** *extends* `Object3D`\<`Object3DEventMap`\> = `Object3D`\<`Object3DEventMap`\>
+• **T** *extends* `Object3D` = `Object3D`
 
 The type of the target.
 
@@ -645,7 +645,7 @@ A Tween instance for further configuration.
 
 #### Defined in
 
-[src/patch/Object3D.ts:154](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L154)
+[patch/Object3D.ts:154](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L154)
 
 ***
 
@@ -673,4 +673,4 @@ The instance of the object with the binding removed.
 
 #### Defined in
 
-[src/patch/Object3D.ts:147](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Object3D.ts#L147)
+[patch/Object3D.ts:147](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Object3D.ts#L147)

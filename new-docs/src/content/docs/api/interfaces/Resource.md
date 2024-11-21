@@ -11,13 +11,13 @@ An interface representing a resource, specifying the loader type and paths to be
 
 ### loader
 
-> **loader**: *typeof* `Loader`
+> **loader**: `any`
 
 The type of loader to use for this resource.
 
 #### Defined in
 
-[src/utils/Asset.ts:28](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Asset.ts#L28)
+[utils/Asset.ts:28](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Asset.ts#L28)
 
 ***
 
@@ -29,4 +29,4 @@ An array of resource paths or configurations to be loaded by the loader.
 
 #### Defined in
 
-[src/utils/Asset.ts:32](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Asset.ts#L32)
+[utils/Asset.ts:32](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Asset.ts#L32)

@@ -17,7 +17,7 @@ Background alpha value of the view (optional, default: 1).
 
 #### Defined in
 
-[src/rendering/RenderView.ts:37](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L37)
+[rendering/RenderView.ts:37](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L37)
 
 ***
 
@@ -29,7 +29,7 @@ Background color of the view (optional, default: 'black').
 
 #### Defined in
 
-[src/rendering/RenderView.ts:35](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L35)
+[rendering/RenderView.ts:35](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L35)
 
 ***
 
@@ -41,7 +41,7 @@ Camera used to view the scene (avoid using the same camera for different scenes)
 
 #### Defined in
 
-[src/rendering/RenderView.ts:25](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L25)
+[rendering/RenderView.ts:25](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L25)
 
 ***
 
@@ -53,7 +53,7 @@ Effect composer used for post-processing (optional).
 
 #### Defined in
 
-[src/rendering/RenderView.ts:39](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L39)
+[rendering/RenderView.ts:39](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L39)
 
 ***
 
@@ -65,7 +65,7 @@ Determines whether InteractionEvents will be triggered for the view (optional, d
 
 #### Defined in
 
-[src/rendering/RenderView.ts:33](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L33)
+[rendering/RenderView.ts:33](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L33)
 
 ***
 
@@ -81,7 +81,7 @@ Function called after rendering the view (optional).
 
 #### Defined in
 
-[src/rendering/RenderView.ts:43](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L43)
+[rendering/RenderView.ts:43](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L43)
 
 ***
 
@@ -97,7 +97,7 @@ Function called before rendering the view (optional).
 
 #### Defined in
 
-[src/rendering/RenderView.ts:41](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L41)
+[rendering/RenderView.ts:41](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L41)
 
 ***
 
@@ -109,7 +109,7 @@ Scene rendered in the view.
 
 #### Defined in
 
-[src/rendering/RenderView.ts:23](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L23)
+[rendering/RenderView.ts:23](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L23)
 
 ***
 
@@ -121,7 +121,7 @@ Tags of the view (optional).
 
 #### Defined in
 
-[src/rendering/RenderView.ts:29](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L29)
+[rendering/RenderView.ts:29](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L29)
 
 ***
 
@@ -133,7 +133,7 @@ Normalized viewport defining dimensions and position of the view (optional). Val
 
 #### Defined in
 
-[src/rendering/RenderView.ts:27](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L27)
+[rendering/RenderView.ts:27](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L27)
 
 ***
 
@@ -145,4 +145,4 @@ Determines if the view is visible (optional, default: true).
 
 #### Defined in
 
-[src/rendering/RenderView.ts:31](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/rendering/RenderView.ts#L31)
+[rendering/RenderView.ts:31](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/rendering/RenderView.ts#L31)

@@ -21,7 +21,7 @@ title: "Stats"
 
 #### Defined in
 
-[src/utils/Stats.ts:27](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L27)
+[utils/Stats.ts:27](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L27)
 
 ## Properties
 
@@ -31,7 +31,7 @@ title: "Stats"
 
 #### Defined in
 
-[src/utils/Stats.ts:4](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L4)
+[utils/Stats.ts:4](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L4)
 
 ## Accessors
 
@@ -59,7 +59,7 @@ title: "Stats"
 
 #### Defined in
 
-[src/utils/Stats.ts:24](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L24)
+[utils/Stats.ts:24](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L24)
 
 ## Methods
 
@@ -81,7 +81,7 @@ title: "Stats"
 
 #### Defined in
 
-[src/utils/Stats.ts:67](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L67)
+[utils/Stats.ts:67](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L67)
 
 ***
 
@@ -95,7 +95,7 @@ title: "Stats"
 
 #### Defined in
 
-[src/utils/Stats.ts:86](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L86)
+[utils/Stats.ts:86](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L86)
 
 ***
 
@@ -109,7 +109,7 @@ title: "Stats"
 
 #### Defined in
 
-[src/utils/Stats.ts:90](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L90)
+[utils/Stats.ts:90](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L90)
 
 ***
 
@@ -123,7 +123,7 @@ title: "Stats"
 
 #### Defined in
 
-[src/utils/Stats.ts:97](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L97)
+[utils/Stats.ts:97](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L97)
 
 ***
 
@@ -137,7 +137,7 @@ title: "Stats"
 
 #### Defined in
 
-[src/utils/Stats.ts:101](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L101)
+[utils/Stats.ts:101](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L101)
 
 ***
 
@@ -151,7 +151,7 @@ title: "Stats"
 
 #### Defined in
 
-[src/utils/Stats.ts:109](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L109)
+[utils/Stats.ts:109](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L109)
 
 ***
 
@@ -165,7 +165,7 @@ title: "Stats"
 
 #### Defined in
 
-[src/utils/Stats.ts:80](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L80)
+[utils/Stats.ts:80](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L80)
 
 ***
 
@@ -183,7 +183,7 @@ title: "Stats"
 
 #### Defined in
 
-[src/utils/Stats.ts:72](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L72)
+[utils/Stats.ts:72](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L72)
 
 ***
 
@@ -201,7 +201,7 @@ title: "Stats"
 
 #### Defined in
 
-[src/utils/Stats.ts:51](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L51)
+[utils/Stats.ts:51](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L51)
 
 ***
 
@@ -215,4 +215,4 @@ title: "Stats"
 
 #### Defined in
 
-[src/utils/Stats.ts:131](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/utils/Stats.ts#L131)
+[utils/Stats.ts:131](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/utils/Stats.ts#L131)

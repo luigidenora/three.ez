@@ -27,4 +27,4 @@ A negative value if `a` should precede `b`, a positive value if `b` should prece
 
 ## Defined in
 
-[src/events/RaycasterManager.ts:12](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/RaycasterManager.ts#L12)
+[events/RaycasterManager.ts:12](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/RaycasterManager.ts#L12)

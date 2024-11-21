@@ -1,44 +1,47 @@
 // @ts-check
-import { defineConfig } from "astro/config";
-import starlight from "@astrojs/starlight";
-import starlightTypeDoc, { typeDocSidebarGroup } from "starlight-typedoc";
+import { defineConfig } from 'astro/config';
+import starlight from '@astrojs/starlight';
+import starlightTypeDoc, { typeDocSidebarGroup } from 'starlight-typedoc';
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://luigidenora.github.io",
-  base: "/three.ez",
+  site: 'https://luigidenora.github.io',
+  base: '/three.ez',
   integrations: [
     starlight({
       plugins: [
         // Generate the documentation.
         starlightTypeDoc({
-          entryPoints: ["../src/index.ts"],
-          tsconfig: "../tsconfig.doc.json",
+          entryPoints: ['../src/index.ts'],
+          typeDoc: {
+            skipErrorChecking: true,
+          },
+          tsconfig: '../tsconfig.doc.json',
         }),
       ],
-      title: "ThreeEz Docs",
+      title: 'ThreeEz Docs',
       logo: {
-        src: "./src/assets/samoyed-mascot.png",
-        alt: "logo-samoyed-mascot",
+        src: './src/assets/samoyed-mascot.png',
+        alt: 'logo-samoyed-mascot',
       },
-      favicon: "./favicon.ico",
+      favicon: './favicon.ico',
       social: {
-        github: "https://github.com/agargaro/three.ez",
-        discord: "https://discord.gg/MVTwrdX3JM",
+        github: 'https://github.com/agargaro/three.ez',
+        discord: 'https://discord.gg/MVTwrdX3JM',
       },
       sidebar: [
-        "introduction",
+        'introduction',
         {
-          label: "Gettings Started",
-          autogenerate: { directory: "getting-started" },
+          label: 'Gettings Started',
+          autogenerate: { directory: 'getting-started' },
         },
         {
-          label: "Guides",
-          autogenerate: { directory: "guides" },
+          label: 'Guides',
+          autogenerate: { directory: 'guides' },
         },
         {
-          label: "Reference",
-          autogenerate: { directory: "reference" },
+          label: 'Reference',
+          autogenerate: { directory: 'reference' },
         },
         // Add the generated sidebar group to the sidebar.
         typeDocSidebarGroup,

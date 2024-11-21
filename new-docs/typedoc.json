@@ -1,0 +1,10 @@
+{
+    "entryPoints": ["../external-docs/src"], // Path to external project's source files
+    "out": "src/content/docs/external",      // Output Markdown to Starlight's content directory
+    "plugin": ["typedoc-plugin-markdown"],   // Generate Markdown docs
+    "excludeExternals": true,                // Ignore external dependencies
+    "excludePrivate": true,                  // Exclude private methods and properties
+    "skipErrorChecking": true,               // Skip TypeScript error checking
+    "tsconfig": "./tsconfig.json"            // Reference your adjusted tsconfig
+  }
+  

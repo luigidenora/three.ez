@@ -17,13 +17,13 @@ The type of the new value associated with the property change.
 
 ### target
 
-> **target**: `Object3D`\<`Object3DEventMap`\>
+> **target**: `Object3D`
 
 A reference to the object to which the event was originally dispatched.
 
 #### Defined in
 
-[src/events/Events.ts:397](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L397)
+[events/Events.ts:397](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L397)
 
 ***
 
@@ -35,4 +35,4 @@ The new value associated with the property change.
 
 #### Defined in
 
-[src/events/Events.ts:399](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L399)
+[events/Events.ts:399](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L399)

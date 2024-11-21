@@ -17,7 +17,7 @@ A flag indicating whether to blur the focused Object3D when clicking outside of 
 
 #### Defined in
 
-[src/patch/Scene.ts:37](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Scene.ts#L37)
+[patch/Scene.ts:37](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Scene.ts#L37)
 
 ***
 
@@ -31,7 +31,7 @@ Additionally, if set to true, the 'pointerintersection' event will be fired ever
 
 #### Defined in
 
-[src/patch/Scene.ts:21](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Scene.ts#L21)
+[patch/Scene.ts:21](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Scene.ts#L21)
 
 ***
 
@@ -45,19 +45,19 @@ Additionally, if set to true, the 'dragover' event will be fired every frame.
 
 #### Defined in
 
-[src/patch/Scene.ts:27](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Scene.ts#L27)
+[patch/Scene.ts:27](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Scene.ts#L27)
 
 ***
 
 ### focusedObject
 
-> **focusedObject**: `Object3D`\<`Object3DEventMap`\>
+> **focusedObject**: `Object3D`
 
 A reference to the currently focused Object3D within the scene.
 
 #### Defined in
 
-[src/patch/Scene.ts:33](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Scene.ts#L33)
+[patch/Scene.ts:33](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Scene.ts#L33)
 
 ***
 
@@ -69,7 +69,7 @@ An array of intersections computed from the pointer (primary pointer only).
 
 #### Defined in
 
-[src/patch/Scene.ts:29](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Scene.ts#L29)
+[patch/Scene.ts:29](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Scene.ts#L29)
 
 ***
 
@@ -81,7 +81,7 @@ An array of intersections computed from the pointer if an object is dragged and 
 
 #### Defined in
 
-[src/patch/Scene.ts:31](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Scene.ts#L31)
+[patch/Scene.ts:31](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Scene.ts#L31)
 
 ***
 
@@ -93,7 +93,7 @@ The time scale for scene animations.
 
 #### Defined in
 
-[src/patch/Scene.ts:39](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Scene.ts#L39)
+[patch/Scene.ts:39](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Scene.ts#L39)
 
 ***
 
@@ -105,7 +105,7 @@ The total time elapsed in the scene.
 
 #### Defined in
 
-[src/patch/Scene.ts:41](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Scene.ts#L41)
+[patch/Scene.ts:41](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Scene.ts#L41)
 
 ## Methods
 
@@ -123,7 +123,7 @@ The updated instance of the scene.
 
 #### Defined in
 
-[src/patch/Scene.ts:46](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Scene.ts#L46)
+[patch/Scene.ts:46](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Scene.ts#L46)
 
 ***
 
@@ -135,7 +135,7 @@ Sets the focus to the specified Object3D within the scene, or clears the focus i
 
 #### Parameters
 
-• **target?**: `Object3D`\<`Object3DEventMap`\>
+• **target?**: `Object3D`
 
 Optional. The Object3D to focus on. If not provided, the focus is cleared.
 
@@ -145,4 +145,4 @@ Optional. The Object3D to focus on. If not provided, the focus is cleared.
 
 #### Defined in
 
-[src/patch/Scene.ts:51](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/patch/Scene.ts#L51)
+[patch/Scene.ts:51](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/patch/Scene.ts#L51)

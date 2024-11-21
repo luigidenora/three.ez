@@ -17,7 +17,7 @@ Returns rendering camera.
 
 #### Defined in
 
-[src/events/Events.ts:378](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L378)
+[events/Events.ts:378](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L378)
 
 ***
 
@@ -29,7 +29,7 @@ Returns the render height.
 
 #### Defined in
 
-[src/events/Events.ts:374](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L374)
+[events/Events.ts:374](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L374)
 
 ***
 
@@ -41,7 +41,7 @@ Returns renderer.
 
 #### Defined in
 
-[src/events/Events.ts:376](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L376)
+[events/Events.ts:376](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L376)
 
 ***
 
@@ -53,4 +53,4 @@ Returns new render width.
 
 #### Defined in
 
-[src/events/Events.ts:372](https://github.com/agargaro/three.ez/blob/6a659b7871154988e88d8973e76bf92863e7cc6e/src/events/Events.ts#L372)
+[events/Events.ts:372](https://github.com/luigidenora/three.ez/blob/57bd50835d7b63a4eed7f77bf46f98834d85a05c/src/events/Events.ts#L372)
